@@ -27,3 +27,11 @@ Some-Tools-4-U/
     ├── Password Generator/     # Password generator app
     ├── Sign_up_log_in/         # Auth pages
     └── XO/                     # Tic-Tac-Toe game with audio/video assets
+```
+## To run these tools locally on your machine
+
+Clone the repository
+```
+git clone [https://github.com/Muggle-B0rn/Some-Tools-4-U.git](https://github.com/Muggle-B0rn/Some-Tools-4-U.git)
+cd Some-Tools-4-U
+```
