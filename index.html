@@ -1,42 +1,48 @@
+---
+
+### English Version of `index.html` (Landing Page)
+
+If you'd like your main landing page (`index.html`) in English as well:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intro</title>
-    <link rel="stylesheet" href="intro.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Some Tools 4 U</title>
+  <link rel="stylesheet" href="intro.css">
 </head>
 <body>
-    <img class ="image-gradient" src="gradient.png" alt="gradient">
-    <div class="layer-blur"></div>
-    <div class="container">
-        <header>
-            <h1 class="logo">Passplay</h1>
-            
-            <button class="btn-signing"><a href="project/Sign_up_log_in/sign_up.html">SIGNING</a></button>
+  <header>
+    <h1>🛠️ Some Tools 4 U</h1>
+    <p>Select a tool to launch</p>
+  </header>
 
-        </header>
-        <main>
-            <div class="content">
-                <div class="tag-box">
-                    <div class="tag">INTRUCING &wedbar;</div>
-                </div>
-                <h1>BEST WEBSITE FOR<br>USEFUL TOOLS</h1>
-                <p class="description">
-                    The best website in the world for useeful tools,
-                    there's log in sign up website for check your memory,password generator
-                    ,tic tac toe and claculator.
-                </p>
-                <div class="buttons">
-                    <a href="project/Sign_up_log_in/index.html" class="btn-signing-main">Get started &gt;</a>
-                </div>
-
-            </div>
-        </main>
-        <spline-viewer class="robot-3d" url="https://prod.spline.design/WpCesvCyKMUHlnKg/scene.splinecode"></spline-viewer>
+  <main class="tools-grid">
+    <div class="card">
+      <h2>🔐 Password Generator</h2>
+      <p>Generate secure and customized random passwords.</p>
+      <a href="./project/Password%20Generator/index.html">Launch Tool</a>
     </div>
 
-    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.12.6/build/spline-viewer.js"></script>
-     
+    <div class="card">
+      <h2>🎮 XO Game</h2>
+      <p>Interactive Tic-Tac-Toe game with sound effects.</p>
+      <a href="./project/XO/index.html">Play Game</a>
+    </div>
+
+    <div class="card">
+      <h2>👤 Sign Up / Log In</h2>
+      <p>Responsive user login and registration interface.</p>
+      <a href="./project/Sign_up_log_in/index.html">View Template</a>
+    </div>
+
+    <div class="card">
+      <h2>🏷️ Discount Calculator</h2>
+      <p>Calculate total savings and final product costs.</p>
+      <a href="./project/Discount/index.html">Launch Tool</a>
+    </div>
+  </main>
 </body>
 </html>
