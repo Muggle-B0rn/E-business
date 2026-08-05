@@ -43,7 +43,8 @@ cd Some-Tools-4-U
 
 ---
 This project is the result of collaborative effort by a talented team of developers:
-Name	Role	GitHub Profile
-Moaz Ibrahim	Developer	@m0ozaa
-Mostafa AbdelWahab	Developer	@Muggle-B0rn
-Mostafa Refaat	Developer	@Mostafa-R2fat
+|Name | Role |	GitHub Profile |
+| :--- | :--- | :--- |
+|Moaz Ibrahim |	Developer | @m0ozaa
+|Mostafa AbdelWahab | Developer | @Muggle-B0rn
+|Mostafa Refaat | Developer | @Mostafa-R2fat
