@@ -42,9 +42,12 @@ cd Some-Tools-4-U
 🔗 Launch https://muggle-b0rn.github.io/Some-Tools-4-U/
 
 ---
-This project is the result of collaborative effort by a talented team of developers:
-|Name | Role |	GitHub Profile |
+## 👥 Authors & Contributors
+
+This project is the result of a collaborative effort by a talented team of developers:
+
+| Name | Role | GitHub Profile |
 | :--- | :--- | :--- |
-|Moaz Ibrahim |	Developer | @m0ozaa
-|Mostafa AbdelWahab | Developer | @Muggle-B0rn
-|Mostafa Refaat | Developer | @Mostafa-R2fat
+| **Moaz Ibrahim** | Developer | [@m0ozaa](https://github.com/m0ozaa) |
+| **Mostafa AbdelWahab** | Developer | [@Muggle-B0rn](https://github.com/Muggle-B0rn) |
+| **Mostafa Refaat** | Developer | [@Mostafa-R2fat](https://github.com/Mostafa-R2fat) |
