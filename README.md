@@ -35,3 +35,8 @@ Clone the repository
 git clone [https://github.com/Muggle-B0rn/Some-Tools-4-U.git](https://github.com/Muggle-B0rn/Some-Tools-4-U.git)
 cd Some-Tools-4-U
 ```
+---
+
+##Experience the applications live directly on your browser via GitHub Pages:
+
+🔗 Launch https://muggle-b0rn.github.io/Some-Tools-4-U/
