@@ -40,3 +40,10 @@ cd Some-Tools-4-U
 ##Experience the applications live directly on your browser via GitHub Pages:
 
 🔗 Launch https://muggle-b0rn.github.io/Some-Tools-4-U/
+
+---
+This project is the result of collaborative effort by a talented team of developers:
+Name	Role	GitHub Profile
+Moaz Ibrahim	Developer	@m0ozaa
+Mostafa AbdelWahab	Developer	@Muggle-B0rn
+Mostafa Refaat	Developer	@Mostafa-R2fat
